@@ -1,0 +1,163 @@
+@media only screen and (min-width:992px) and (max-width:1304px){
+
+    
+    ul.my-primary-menu li a {
+        padding: 10px 13px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+
+}
+@media only screen and (max-width:1192px){
+
+    ul.my-primary-menu li a {
+        padding: 10px 13px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+    .header-call-info a {
+        font-size: 14px;
+    }
+    body .btn-primary {
+        
+        padding: 6px 25px;
+        font-size: 13px;
+        box-sizing: border-box;
+    }
+}
+
+
+@media only screen and (max-width:992px){
+    .slider-content p {
+        font-size: 18px;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+    }
+    
+    .about-image-text {
+        right: 90px;
+    }
+    .about-text {
+        margin-top: 50px;
+    }
+    .feature-item.text-center.mtop30 {
+        margin-top: 1px;
+    }
+    .calculate-rate {
+        margin-top: 30px;
+    }
+    body .btn-primary {
+        padding: 10px 25px;
+    }
+
+    .story-lnelate {
+        margin-top: 40px;
+    }
+    .footer-widget img {
+        width: 130px;
+    }
+    .finix-text h2 {
+        font-size: 30px;}
+        .apply-now-text h2 {
+            font-size: 30px;
+        }
+        .apply-now-text h2 {
+            margin-top: -70px;
+        }
+        .header-info .header-search span{
+            display: none;
+        }
+        .header-info .header-call .header-call-icon span{
+            display: none;
+        }
+        .header-info .header-call .header-call-info{
+            display: none;
+        }
+        .header-info .header-button .btn{
+            display: none;
+        }
+        #scroll-to-top .scrollup{
+            opacity: 0;
+        }
+        ul.my-primary-menu li:hover ul{
+            opacity: 1;
+            visibility: visible;
+            top: -60%;
+            z-index: 6565;
+            left: 12%;
+            
+        }
+}
+@media only screen and (max-width:768px){
+    .call-text-left h2 {
+        font-size: 28px;
+        margin-bottom: 40px;
+    }
+    .slider-content h1 {
+        font-size: 30px;
+    }
+    .slider-content p {
+  
+        font-size: 16px;
+       
+    }
+    .finix-text h2 {
+        font-size: 22px;
+    }
+    .apply-now-text h2 {
+        font-size: 25px;
+    }
+    .step-timeline ul li strong {
+        font-size: 20px;}
+        body .btn-primary {
+            padding: 14px 25px;
+        }
+        .our-company-text h2 {
+            font-size: 30px;
+        }
+        .company-label-wrap-text h3 {
+            font-size: 22px;}
+            .navbar-brand img {
+                width: 120px;
+            }
+            
+}
+@media only screen and (max-width:570px){
+    .step-timeline ul::before {
+        height: calc(100% - 100px);
+    }
+    ul.my-primary-menu li:hover ul{
+        opacity: 1;
+        visibility: visible;
+        top: -60%;
+        z-index: 6565;
+        left: 25%;
+        
+    }
+}
+
+@media only screen and (max-width:500px){
+ 
+    
+    .apply-now-text h2 {
+        font-size: 23px;
+    }
+ 
+}
+@media only screen and (max-width:400px){
+    .step-timeline ul::before {
+        height: calc(100% - 130px);
+    }
+}
+
+@media only screen and (max-width:348px){
+    .about-image-text {
+        right: 10px;
+    }
+    .about-image-text {
+    
+        bottom: -30px;
+    }
+}
+
